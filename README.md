@@ -303,7 +303,7 @@ ISC
 ## 👤 Author
 
 **Revathi**
-[GitHub](https://github.com/revathi-stalin) | 
+[GitHub](https://github.com/revathi-stalin)
 
 ---
 
