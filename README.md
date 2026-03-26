@@ -303,7 +303,7 @@ ISC
 ## 👤 Author
 
 **Revathi**
-[GitHub](https://github.com/revathi-stalin) | [Email](mailto:revathisammu2897@gmail.com)
+[GitHub](https://github.com/revathi-stalin) | 
 
 ---
 
