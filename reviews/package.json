@@ -1,0 +1,32 @@
+{
+  "name": "reviews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node main.ts",
+    "start:dev": "ts-node --watch main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@apollo/gateway": "^2.8.0",
+    "@nestjs/apollo": "^12.0.0",
+    "@nestjs/common": "^10.0.0",
+    "@nestjs/core": "^10.0.0",
+    "@nestjs/graphql": "^12.0.0",
+    "@nestjs/platform-express": "^10.0.0",
+    "@apollo/subgraph": "2.0.0",
+    "graphql": "^16.8.0",
+    "reflect-metadata": "^0.2.2",
+    "rxjs": "^7.8.0"
+  }
+}
